@@ -1,0 +1,31 @@
+										RAPPORT DE PROJET
+
+DATE: 21/05/2020.
+
+BINOME:
+-HAMMAL ABDELMALEK
+-BAKHETAOUI MEHDI
+
+
+✓ PARTIE IMPLEMENTEES :
+
+-inscreption avec identifiant et authentification par mot de passe("role enseignat ou bien etudiant"
+-creation de cours et creation d'exercice former de lignes possibilité d'assigner plusieurs solutions à un meme exercice
+-resolution de probleme dynamique ("utilisation d'ajax")
+-resultat d'etudiant interface avec touts les exercice deja resolu
+-resultat enseignant interface compléte avec statistics par cours/exercices
+
+
+OUTILS UTILISEES:
+
+-utilisations de codeigniter ("php framework") pour le concue du site web.
+-utilisations de bootstrap pour le style.
+-utilisations de jqery et ajax pour dynamiser les pages.
+
+
+IMPLIMENTATION : 
+
+-pour implimenter le projet il faut copie le repertoire du projet dans le repertoire www de wamp sur windows ou bien de le repertoire htdocs de xampp sur unix , et visiter le site sur l'url :http://localhost/projet/
+-pour la base de donner on a mis un fichier database.sql dans le repertoire du projet qui contient la base de donnée il faut juste enter dans l'interface de phpmyadmine sur wampp ou xampp et importer ce fichier.
+-si jamais l'utilisateur de la machine et le mot de passe où on test le projet ne sont pas root et vide on change la configuration dans le fichier : projet/application/config/database .
+-on a fait du free hosting pour le site web aussi sur infinityfree et l'url du site est : http://exogood.epizy.com/posts?i=1  
